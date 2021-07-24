@@ -1,0 +1,43 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+  <link rel="stylesheet" href="/estilosWWW.css"/>
+{% endblock %}
+
+{% block main %}
+<div class="divElegirProblema">
+  <h1>¿De qué problema quieres visualizar las soluciones?</h1>
+  <BR>
+  <div class="divElegirProblemaHija">
+    {% if seleccion is empty %}
+      <h5><b>Lo sentimos, no hay problemas resueltos</b></h5>
+    {% else %}
+      <form action='/resueltos/visualizar/' method='post'>
+        <select name='seleccionId' id='seleccionId'>
+          {% for i in 0..seleccion|length -1 %}
+            <option value='{{seleccion[i][0]}}'>{{seleccion[i][1]}}</option>
+          {% endfor %}
+      </select>
+    <br><br>
+    <input type='submit' value='Visualizar solucion'>
+  </form>
+    {% endif %}
+  </div>
+
+  <div class="divEsperaUrge">
+    <h2>Problemas en espera</h2>
+    <p>Estos son los problemas que ya has opinado y están a la espera de otros expertos o de ser calculados</p>
+    {% if calcular is empty %}
+      <b>Lo sentimos, no hay problemas en espera</b></h5>
+    {% else %}
+      {% for i in 0..calcular|length-1 %}
+        {% if opcion == 0 %}
+          <div class='box-blue'>{{calcular[i][5]}}</div>
+        {% else %}
+          <div class='box-blue'>{{calcular[i][1]}}</div>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

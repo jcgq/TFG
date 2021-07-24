@@ -1,0 +1,165 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="/admin/css/estilos.css">
+{% endblock %}
+
+{% block main %}
+<div class='container logindiv' style='height: 100%'>
+    {% if id is not empty %}
+        {% if fila1 is not empty or fila2 is not empty %}
+            <div style='width: 100%; text-align: center'>
+                <h3>¿Qué alternativa quieres visualizar?:</h3>
+                {{paraAction}}
+                <form method='post' action="obtenerSoluciones.php">
+                    <select name='seleccionarMejora'>
+                        {% for i in 0..nombres|length-1 %}
+                            <option name={{nombres[i]}}>{{nombres[i]}}</option>
+                        {% endfor %}
+                    </select>
+                    <input type='submit' value='mostrar' name='submit'>
+                    <input type='hidden' value={{id}} name={{id}}>
+                </form>
+            </div>
+        {% endif %}
+            <h2>La solución para el problema <b>{{fila[1]}}</b> es la siguiente:</h2><BR>
+            <h4>El resultado de preferencia de cada alternativa es:</h4>
+            <table class='tablaSolucion' style='height: 100%' id='mi-tabla'>
+                <tr class='trSolucion'>
+                    {% for i in 0..fila[7]-1 %}
+                        <td class='tdSolucion'>{{separada[i]}}</td>
+                    {% endfor %}
+                </tr>
+                <tr class='trSolucion'>
+                    {% for i in 0..fila[7]-1 %}
+                        <td class='tdSolucion'>{{separada2[i]}}</td>
+                    {% endfor %}
+                </tr>
+            </table>
+            <br>
+            <h4>El resultado final de los valores de las Qs es:</h4>
+            <table class='tablaSolucion'>
+                <tr class='trSolucion'>
+                    <td class='tdSolucion'>Q_Final</td>
+                    <td class='tdSolucion'>Q 1 (Consistencia Final)</td>
+                    <td class='tdSolucion'>Q 2 (Consenso Final)</td>
+                    <td class='tdSolucion'>Q 3</td>
+                </tr>
+                <tr class='trSolucion'>
+                    {% for i in 0..qs1|length-1 %}
+                        <td class='tdSolucion'>{{qs1[i]}}</td>
+                    {% endfor %}
+                </tr>
+            </table>
+            <br>
+            <h4>Otros resultados de interés:</h4>
+            <table class='tablaSolucion'>
+                <tr class='trSolucion'>
+                    {% set j = 1 %}
+                    {% for i in 0..qs2|length-3 %}
+                        <td class='tdSolucion'>Consistencia Experto {{j}} (Inicial)</td>
+                        {% set j = j+1 %}
+                    {% endfor %}
+                    <td class='tdSolucion'>Consistencia media (Inicial)</td>
+                    <td class='tdSolucion'>Consenso medio (Inicial)</td>
+
+                </tr>
+                <tr class='trSolucion'>
+                    {% for i in 0..qs2|length-1 %}
+                        <td class='tdSolucion'>{{qs2[i]}}</td>
+                    {% endfor %}
+                </tr>
+            </table>
+            <br>
+            <section style='width: 100%;'>
+                <section style='float: left; width: 30%; padding-top: 5%; text-align: center'>
+                    <h4>Valores de las variables internas</h4>
+                        <table style='text-align: center; width: 100%' border='2'>
+                            <tr>
+                                {% if fila[22] != 0 %}
+                                    <td style='background: lightgreen' colspan='3'>Valores</td>
+                                {% else %}
+                                    <td style='background: lightgreen' colspan='2'>Valores</td>
+                                {% endif %}
+                            </tr>
+
+                            <tr>
+                            <td style='background: lightgray'>Alpha</td>
+                            <td style='background: lightgoldenrodyellow'>{{fila[12]}}</td>
+                                {% if fila[22] != 0 %}
+                                    {% if fila[12] > filaFlechas[0] %}
+                                        <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/verde.jpg' width='40px' height='40px'></td>
+                                    {% endif %}
+                                    {% if fila[12] < filaFlechas[0] %}
+                                        <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/roja.jpg' width='40px' height='40px'></td>
+                                    {% endif %}
+                                    {% if fila[12] == filaFlechas[0] %}
+                                        <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/igual.jpg' width='40px' height='40px'></td>
+                                    {% endif %}
+                                {% endif %}
+                            </tr>
+                            <tr>
+                                <td style='background: lightgray'>Beta</td>
+                                <td style='background: lightgoldenrodyellow'>{{fila[13]}}</td>
+                                {% if fila[22] != 0 %}
+                                    {% if fila[13] > filaFlechas[1] %}
+                                        <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/verde.jpg' width='40px' height='40px'></td>
+                                    {% endif %}
+                                    {% if fila[13] < filaFlechas[1] %}
+                                        <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/roja.jpg' width='40px' height='40px'></td>
+                                    {% endif %}
+                                    {% if fila[13] == filaFlechas[1] %}
+                                        <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/igual.jpg' width='40px' height='40px'></td>
+                                    {% endif %}
+                                {% endif %}
+                            </tr>
+                        <tr>
+                            <td style='background: lightgray'>Gamma</td>
+                            <td style='background: lightgoldenrodyellow'>{{fila[14]}}</td>
+                            {% if fila[22] != 0 %}
+                                {% if fila[14] > filaFlechas[2] %}
+                                    <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/verde.jpg' width='40px' height='40px'></td>
+                                {% endif %}
+                                {% if fila[14] < filaFlechas[2] %}
+                                    <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/roja.jpg' width='40px' height='40px'></td>
+                                {% endif %}
+                                {% if fila[14] == filaFlechas[2] %}
+                                    <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/igual.jpg' width='40px' height='40px'></td>
+                                {% endif %}
+                            {% endif %}
+                        </tr>
+                        <tr>
+                            <td style='background: lightgray'>Umbral</td>
+                            <td style='background: lightgoldenrodyellow'>{{fila[19]}}</td>
+                            {% if fila[22] != 0 %}
+                                {% if fila[19] > filaFlechas[3] %}
+                                    <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/verde.jpg' width='40px' height='40px'></td>
+                                {% endif %}
+                                {% if fila[19] < filaFlechas[3] %}
+                                    <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/roja.jpg' width='40px' height='40px'></td>
+                                {% endif %}
+                                {% if fila[19] == filaFlechas[3] %}
+                                    <td style='width: 40px; height: 40px'><img src='/imagenesAuxiliares/igual.jpg' width='40px' height='40px'></td>
+                                {% endif %}
+                            {% endif %}
+                        </tr>
+                    </table>
+                    {% if fila[22] != 0 %}
+                        <section style='text-align: left; border: #0a0a0a 2px solid; margin-top: 4px'>
+                            <ul>La leyenda de los dibujos es la siguiente:
+                                <li>Igual: Mismo valor</li>
+                                <li>Verde: Valor aumentado</li>
+                                <li>Roja: Valor disminuido</li>
+                            </ul>
+                        </section>
+                    {% endif %}
+
+                </section>
+                    <section style='float: left; text-align: center; width: 70%; align-items: center'>
+                        <h4 style='text-align: center'>Gráfica que muestra la evolución de las variables en la función de optimización</h4>
+                        <img src='{{imagenFila[20]}}' width='70%', height='60%' style='border:2px solid; margin-left: 15.5%' >
+                    </section>
+                </section>
+    {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,46 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="estilosWWW.css"/>
+{% endblock %}
+
+{% block main %}
+
+{% if logged_in %}
+
+    <div style="background-color: #f4f8fa" class="jumbotron text-center"><h1>Hola, {{ nombre }}.!</h1>
+        <p>Haga clic en su nombre de usuario en la esquina superior derecha para exponer las opciones del menú</p></div>
+    <div class="col-lg-2"></div><div class="col-lg-8">
+        <h2>Elementos del menú:</h2>
+        <ol>
+            <p><b><em>Editar Perfil</em></b> -
+                Editar la información de su propio perfil de usuario, incluyendo su nombre, información de contacto, avatar, etc.</p>
+            <p><b><em>Configuración de la cuenta</em></b> - Cambia tu correo y/o contraseña</p>
+
+    {% if not is_admin or not is_SuperAdmin %}
+            <p><b><em></em>Opinar</em></b> - Da la opinión sobre un problema que se le ha asignado</p>
+    {% endif %}
+
+    {% if is_admin %}
+            <p><b><em>Gestionar los usuarios activos</em></b> - El administrador gestiona los usuarios activos y/o prohíbe a los trolls</p>
+            <p><b><em>Verificar/Borrar usuarios</em></b> - El administrador verifica o elimina en masa las solicitudes de los nuevos usuarios</p>
+            <p><b><em>Registro de correo</em></b> - Registro del estado del correo administrativo</p>
+            <p><b><em>Registro de usuarios</em></b> - Registra nuevo usuarios desde cero</p>
+    {% endif %}
+
+    {% if is_SuperAdmin %}
+            <p><b><em>Editar la configuración del sitio</em></b> - El superadministrador edita la configuración del sitio en una página</p>
+            <p><b><em>Crear Problema</em></b> - Crea un problema para los clientes</p>
+            <p><b><em>Calcular Problema</em></b> - Calcula las soluciones de los problemas resueltos</p>
+    {% endif %}
+
+            <p><b><em>Problemas Resueltos</em></b> - Podrás visualizar la solución de los problemas resueltos</p>
+{% else %}
+            <div class="jumbotron text-center"><h1 class="display-1">TFG Juanca</h1>
+            <small>Esta es tu página principal. En este momento, has cerrado la sesión.</small><br><br>
+            <p>Puede iniciar sesión o crear una nueva cuenta haciendo clic en "Identificarse" en la esquina superior derecha.</p>
+            <ol>
+{% endif %}
+        </div><div class="col-lg-2"></div>
+    </div>
+{% endblock %}

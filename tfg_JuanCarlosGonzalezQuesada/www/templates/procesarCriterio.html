@@ -1,0 +1,53 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+<script src="/admin/js/editconfig.js"></script>
+<link rel="stylesheet" href="/admin/css/estilos.css">
+<script src="/admin/js/jquery-3.1.1.min.js"></script>
+<script src="/admin/js/bootstrap-select.min.js"></script>
+<script src="/admin/js/select2.js"></script>
+{% endblock %}
+
+{% block main %}
+<div class="divCriterios">
+  <p>Pesos de los expertos para cada criterio</p>
+  <form action='/admin/procesarProblema.php' method='post'>
+    {% set contador = 0 %}
+    {% for i in 0..numExpertos-1 %}
+      <p>Para el experto {{usuariosNombresAux[i]}}</p>
+      <table class='tablaCriterios' border='2'>
+        <tr>
+          {% for j in 0..numCriterios-1 %}
+            <td style='background: lightgoldenrodyellow'>Criterio {{criteriosNombresAux[j]}}</td>
+          {% endfor %}
+        </tr>
+        <tr>
+          {% for j in 0..numCriterios-1 %}
+          <td><input type='number' min='0' max='1' name='pesExp_{{contador}}' step='0.01' required> </td>
+          {% set contador = contador+1 %}
+          {% endfor %}
+        </tr>
+      </table><br>
+    {% endfor %}
+
+
+    <input type='hidden' name='nombreProblema' value='{{nombre}}'>
+    <input type='hidden' name='numExpertos' value='{{expertos}}'>
+    <input type='hidden' name='numCriterios' value='{{criterios}}'>
+    <input type='hidden' name='descripcion' value='{{descripcion}}'>
+    <input type='hidden' name='nombresUsuarios' value='{{usuariosFinal}}'>
+    <input type='hidden' name='numAlternativas' value='{{alternativas}}'>
+    <input type='hidden' name='nomAlternativas' value='{{nombreAlternativas}}'>
+    <input type='hidden' name='alfa' value='{{alfa}}'>
+    <input type='hidden' name='beta' value='{{beta}}'>
+    <input type='hidden' name='gamma' value='{{gamma}}'>
+    <input type='hidden' name='pesosCriterios' value='{{pesosCriterios}}'>
+    <input type='hidden' name='umbral' value='{{umbral}}'>
+    <input type='hidden' name='nomCriterios' value='{{nombreCriterios}}'>
+
+    <input type="submit" value="Enviar">
+    <input type="reset" value="Borrar">
+  </form>
+</div>
+
+{% endblock %}

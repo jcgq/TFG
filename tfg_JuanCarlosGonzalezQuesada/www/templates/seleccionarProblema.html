@@ -1,0 +1,26 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+    <link rel="stylesheet" href="/user/css/estilosUser.css"/>
+{% endblock %}
+
+{% block main %}
+<div class="divSeleccion">
+    <h2>Selección del problema</h2>
+    {% if filas is empty %}
+        <b>Lo sentimos, no hay problemas nuevos para opinar</b>
+    {% else %}
+        <p>¿Cuál de sus problemas asignados quieres resolver?</p>
+        <form action='/opinar/rellenar/' method='post'>
+            <select name='seleccionId' id='seleccionId'>";
+                {% for i in 0..filas|length-1 %}
+                    <option value='{{filas[i][0]}}'>{{filas[i][5]}}</option>";
+                {% endfor %}
+            </select>
+            <br><br>
+            <input type='submit' value='Seleccionar Problema'>
+        </form>
+    {% endif %}
+</div>
+
+{% endblock %}

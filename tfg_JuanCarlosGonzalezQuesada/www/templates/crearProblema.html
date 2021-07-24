@@ -1,0 +1,129 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+  <script src="/admin/js/editconfig.js"></script>
+  <link rel="stylesheet" type="text/css" href="/admin/css/select2.css">
+  <script src="/admin/js/jquery-3.1.1.min.js"></script>
+  <script src="/admin/js/bootstrap-select.min.js"></script>
+  <script src="/admin/js/select2.js"></script>
+  <link rel="stylesheet" href="/admin/css/estilos.css">
+{% endblock %}
+
+{% block main %}
+
+<script type="text/javascript">
+
+  $(document).ready(function() {
+
+    var last_valid_selection = null;
+
+    $('#mibuscador').change(function(event) {
+      if ( $(this).val().length > {{numExpertos}} ) {
+
+        $(this).val(last_valid_selection);
+      } else {
+        last_valid_selection = $(this).val();
+      }
+    });
+  });
+
+  function validar(){
+    if ($('#mibuscador').val().length < {{numExpertos}} ) {
+                alert('Los expertos indicados no coinciden con el número de expertos indicados');
+                return false;
+            }
+    else{
+      alert(numExpertos);
+    }
+        }
+
+  $(document).ready(function(){
+    $('#mibuscador').select2();
+  });
+  $(function () {
+    $('#mibuscador').selectpicker();
+  });
+ </script>
+
+
+<div class="divPadreCrearProblema">
+  <h4>Vamos a crear un nuevo problema</h4>
+  <div class="divHijaCrearProblema">
+    <form action="/crear-problema/2/" method="post" name="formulario">
+      <div class="form-group">
+        <p>Nombre: <br><input type="text" name="nombre" size="40" required></p>
+        <p>Descripción del problema: <br><input type="text" name="descripcion"  size="40" required></p>
+        <br>
+        <p>Nombres de las alternativas:</p>
+        <ul>
+          {% set contador = 0 %}
+          {% set aux = 1 %}
+          {% for i in 0..(numAlternativas-1) %}
+            <li>
+              <p>Alternativa número {{aux}}: <input type='text' name='nomAlter_{{contador}}' required></p>
+            </li>
+            {% set contador = contador+1 %}
+            {% set aux = aux+1 %}
+          {% endfor %}
+
+        </ul>
+        <br>
+        <p>Nombres de los criterios:</p>
+        <ul>
+          {% set contador = 0 %}
+          {% set aux = 1 %}
+          {% for i in 0..(numCriterios-1) %}
+            <li>
+              <p>Criterio número {{aux}}: <input type='text' name='nomCri_{{contador}}' required></p>
+            </li>
+            {% set contador = contador+1 %}
+            {% set aux = aux+1 %}
+          {% endfor %}
+        </ul>
+        <br>
+
+        <p>Indique los pesos de los criterios:</p>
+        <ul>
+        {% set contador = 0 %}
+        {% set aux = 1 %}
+        {% for i in 0..(numCriterios-1) %}
+        <li>
+          <p>Criterio número {{aux}}: <input type='number' min='0', max='1' name='pesCri_{{contador}}' step='0.01' required></p>
+        </li>
+        {% set contador = contador+1 %}
+        {% set aux = aux+1 %}
+        {% endfor %}
+        </ul> <br>
+        <table border="2" class="alfa">
+        <tr class="trAlfa">
+          <td colspan="4" class="tdAlfa">Valores </td>
+        </tr>
+        <tr>
+          <td>Valor de Alpha: </td>
+          <td>Valor de Betta: </td>
+          <td>Valor de Gamma: </td>
+          <td>Valor del Umbral: </td>
+        </tr>
+        <tr>
+          <td><input type="number" step="0.01" min="0" max="1" name="alfa" style="width: 100%" required></td>
+          <td><input type="number" step="0.01" min="0" max="1" name="beta" style="width: 100%" required></td>
+          <td><input type="number" step="0.01" min="0" max="1" name="gama" style="width: 100%" required></td>
+          <td><input type="number" step="0.01" min="0" max="1" name="umbral" style="width: 100%" required></td>
+        </tr>
+        </table>
+        <br>
+        Seleccione los usuarios que intervengan en el programa:</p>
+        <select required name="usuarios[]" id="mibuscador" style="width: 70%" multiple data-style="bg-white rounded-pill px-4 py-3 shadow-sm " >
+          {% for i in 0..miembros|length %}
+            <option value="{{miembros[i]}}">{{miembros[i]}}</option>
+          {% endfor %}
+        </select>
+        <br><br><br>
+      <input type="submit" onclick="return validar()" value="Enviar">
+  </div>
+        <input type='hidden' name='alternativas' value='{{numAlternativas}}'>
+        <input type='hidden' name='criterios' value='{{numCriterios}}'>
+</div>
+</form>
+</div>
+{% endblock %}

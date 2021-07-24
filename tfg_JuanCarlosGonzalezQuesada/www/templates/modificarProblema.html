@@ -1,0 +1,43 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+<link rel="stylesheet" type="text/css" href="css/select2.css/">
+<link rel="stylesheet" href="css/estilos.css"/>
+{% endblock %}
+
+{% block main %}
+<div class="divPadreCrearProblema">
+  <h3>Vamos a crear una mejora al problema con nombre "<b>{{fila[1]}}</b>"</h3><br>
+  <div class="divHijaCrearProblema">
+    <form action="procesarMejora.php" method="post" name="formulario">
+      <div class="form-group">
+        <p>Descripción de las mejoras del problema: <br><input type="text" name="descripcion"  size="40" required></p>
+        <br>
+
+        <table border="2"class="alfa">
+        <tr class="trAlfa">
+          <td colspan="4" class="tdAlfa">Valores </td>
+        </tr>
+        <tr>
+          <td>Valor de Alpha: </td>
+          <td>Valor de Betta: </td>
+          <td>Valor de Gamma: </td>
+          <td>Valor del Umbral: </td>
+        </tr>
+        <tr>
+          <td><input type="number" value="{{fila[12]}}" step="0.01" min="0" max="1" name="alfa" style="width: 100%; text-align: center" required></td>
+          <td><input type="number" value="{{fila[13]}}" step="0.01" min="0" max="1" name="beta" style="width: 100%; text-align: center" required></td>
+          <td><input type="number" value="{{fila[14]}}" step="0.01" min="0" max="1" name="gama" style="width: 100%; text-align: center" required></td>
+          <td><input type="number" value="{{fila[19]}}" step="0.01" min="0" max="1" name="umbral" style="width: 100%; text-align: center" required></td>
+        </tr>
+        </table>
+        <br>
+      </div>
+      <input type="submit" value="Enviar">
+  </div>
+  <input type="hidden" name="idProblema" value="{{fila[0]}}">
+</div>
+</form>
+</div>
+
+{% endblock %}

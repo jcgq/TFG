@@ -1,0 +1,53 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="/user/css/estilosUser.css"/>
+{% endblock %}
+
+{% block main %}
+<div class="divGeneralOpiniones">
+    <h2>Rellene su opinión</h2>
+    <form action="/opinar/procesar/" method="post">
+        <h3>Problema con el nombre '<b>{{nombre}}</b>'</h3>
+        <BR>
+        {% set contador = 0 %}
+        {% for a in 0..numCriterio-1 %}
+            <h5>Criterio <b>{{nombreCriterios[a]}}</b> con peso : {{pesos[a]}} </h5>
+            <BR>
+            <table>
+                <tr>
+                    {% for i in 0..numAlternativa-1 %}
+                        {% if i == 0 %}
+                            <th></th>
+                            {% for m in 0..numAlternativa-1 %}
+                                <th>{{alternativas[m]}}</th>
+                            {% endfor %}
+                            </tr><tr>
+                        {% endif %}
+                        {% for j in 0..numAlternativa-1 %}
+                            {% if j == 0 %}
+                                <th>{{alternativas[i]}}</th>
+                            {% endif %}
+                            {% if i == j %}
+                                <td style='text-align: center'>-</td>
+                            {% else %}
+                                <td>
+                                    <input type='number' min='0' step='0.01' max='1' size=4 name='id_{{contador}}' required>
+                                </td>
+                                {% set contador = contador+1 %}
+                            {% endif %}
+                {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </table>
+                <br>
+
+        {% endfor %}
+        <input type = 'hidden' name = 'idProblema' value = '{{id}}' />
+        <button type="submit">Enviar opinión</button>
+        <br>
+        <br>
+    </form>
+</div>
+
+{% endblock %}

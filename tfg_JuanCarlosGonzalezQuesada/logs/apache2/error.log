@@ -1,0 +1,1294 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 30 14:39:56.113515 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 30 14:39:56.114082 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 30 14:40:04.828074 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 30 14:40:41.410305 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 30 14:40:41.410678 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 30 14:55:16.190660 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 30 14:58:25.807930 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 30 14:58:25.808235 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 30 15:28:44.695657 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 30 15:29:43.858886 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 30 15:29:43.859278 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jun 30 15:35:34.100618 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 30 18:28:37.734984 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 30 18:28:37.735348 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-i8b4ogr8 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[Wed Jun 30 18:37:34.111302 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 30 18:37:52.910075 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jun 30 18:37:52.910320 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-pw5x2yo7 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-i0c872gk because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-n6bix3q2 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-nfaa2v52 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-38gt15yb because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 74, in <module>
+    alfaAux=deepcopy(alfa)
+NameError: name 'deepcopy' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-2wtpkhbd because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-x87rbg_4 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-62lffbfw because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-rrrfjoja because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 141, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema180.png'
+[Wed Jun 30 18:52:06.085559 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jul 01 09:45:12.913297 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Thu Jul 01 09:45:12.913785 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Jul 01 09:59:15.505247 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jul 01 16:07:52.233976 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Thu Jul 01 16:07:52.234328 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Jul 01 17:13:59.488743 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 03 15:13:40.751288 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat Jul 03 15:13:40.751678 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-oc39yh5s because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 137, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-itx4q0pn because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 137, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-4_jr5lzc because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 137, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-bzur577t because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 137, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-q9uif9qe because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 137, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-brjmorcx because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 137, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-y1cj23xd because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 138, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+  File "librerias/funOptimizacion.py", line 82
+    print("Entro en el puto fi")
+        ^
+IndentationError: expected an indented block
+  File "librerias/funOptimizacion.py", line 82
+    print("Entro en el puto fi")
+        ^
+IndentationError: expected an indented block
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-8801a6xq because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 139, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-e236402t because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-mna7cz0x because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 139, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-2dzgf72u because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 139, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-vodv_5sm because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 141, in <module>
+    plt.savefig("/imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-yq6nik2f because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 141, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-dale97bn because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 142, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-oolyo63s because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 142, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ofkvdrxe because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 143, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema180.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-_qtjh6bs because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 41, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-s5sm9daq because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 41, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-h7gv6c8v because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 143, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+  File "librerias/funOptimizacion.py", line 127
+    echo "LA IMAGEN ESTáa creada"
+                                ^
+SyntaxError: invalid syntax
+  File "librerias/funOptimizacion.py", line 127
+    echo "LA IMAGEN ESTáa creada"
+                                ^
+SyntaxError: invalid syntax
+  File "librerias/funOptimizacion.py", line 127
+    echo "LA IMAGEN ESTáa creada"
+                                ^
+SyntaxError: invalid syntax
+  File "librerias/funOptimizacion.py", line 127
+    echo "LA IMAGEN ESTáa creada"
+                                ^
+SyntaxError: invalid syntax
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-qf2bdp47 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 144, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-osa0eryr because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 144, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-rd1t9go8 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 145, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ckk710hj because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 145, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-sufvffkz because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 146, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-0z6fw4xb because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 147, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-8kkyhi4u because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 128, in <module>
+    contenido = os.listdir('/Users/Juanjo/ejemplo')
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/Juanjo/ejemplo'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-e1qzanhh because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 128, in <module>
+    contenido = os.listdir(url)
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-8ihtqzht because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 128, in <module>
+    contenido = os.listdir(url)
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-avzs4eqc because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 150, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-8sgtouup because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 130, in <module>
+    contenido = os.listdir(url2)
+FileNotFoundError: [Errno 2] No such file or directory: '/imagenes'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-77eeu29e because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 153, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-2iam_swl because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 155, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-uwg56201 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 155, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-9q8cngil because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 130, in <module>
+    contenido = os.listdir(url2)
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/imagenes'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-n0jtew3f because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 130, in <module>
+    contenido = os.listdir(url2)
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/imagenes/'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-e49yqy25 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 130, in <module>
+    contenido = os.listdir(url2)
+FileNotFoundError: [Errno 2] No such file or directory: '/var/www/imagenes/'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-e30goudy because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 155, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+  File "librerias/funOptimizacion.py", line 130
+    contenido = os.listdir('C:\Users\quesa\Desktop\docker-compose-lamp\www\imagenes')
+                          ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+  File "librerias/funOptimizacion.py", line 130
+    contenido = os.listdir("C:\Users\quesa\Desktop\docker-compose-lamp\www\imagenes")
+                          ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-w5g1q6n4 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 130, in <module>
+    contenido = os.listdir("C:/Users/quesa/Desktop/docker-compose-lamp/www/imagenes")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/quesa/Desktop/docker-compose-lamp/www/imagenes'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-u1fqpt82 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+ls: cannot access 'C:/Users/quesa/Desktop/docker-compose-lamp/www/imagenes': No such file or directory
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 131, in <module>
+    contenido = os.listdir("C:/Users/quesa/Desktop/docker-compose-lamp/www/imagenes/")
+FileNotFoundError: [Errno 2] No such file or directory: 'C:/Users/quesa/Desktop/docker-compose-lamp/www/imagenes/'
+  File "librerias/funOptimizacion.py", line 130
+    os.system('ls C:\Users\quesa\Desktop\docker-compose-lamp\www\imagenes')
+             ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 5-6: truncated \UXXXXXXXX escape
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-6yaq080w because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 145, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-b6f8zepf because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 146, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-21xf7ck4 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 147, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-z0ea2kwb because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 151, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-jt315pqs because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+rm: cannot remove 'GraficaQParaProblema21.png': No such file or directory
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 152, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-tx0i4svq because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 148, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-fpfb4e55 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 129, in <module>
+    contenido = os.listdir('ruta')
+FileNotFoundError: [Errno 2] No such file or directory: 'ruta'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-xk6dyfe8 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 151, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ru726ywi because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 134, in <module>
+    directorio = pathlib.Path(ejemplo_dir)
+NameError: name 'pathlib' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-x3kne29o because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 136, in <module>
+    directorio = pathlib.Path(ejemplo_dir)
+NameError: name 'pathlib' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-s2t23pk9 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 138, in <module>
+    directorio = pathlib.Path(ejemplo_dir)
+NameError: name 'pathlib' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-pvksxj47 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 159, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-_nii1b8_ because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 159, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+  File "librerias/funOptimizacion.py", line 126
+    imagen = GraficaQParaProblema"+str(idProblema)+".png"
+                                                   ^
+SyntaxError: invalid syntax
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-br2gh80c because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 161, in <module>
+    plt.savefig("../imagenes/GraficaQParaProblema"+str(idProblema)+".png")
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/pyplot.py", line 966, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/figure.py", line 3005, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 2261, in print_figure
+    **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backend_bases.py", line 1669, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/backends/backend_agg.py", line 511, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/matplotlib/image.py", line 1616, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.7/dist-packages/PIL/Image.py", line 2169, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../imagenes/GraficaQParaProblema21.png'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-u087b1mr because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-tdt3f8h3 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-tt7hrm6o because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 102, in <module>
+    aux1+=str(e1[i])+","
+NameError: name 'aux1' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-67e1om8q because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 102, in <module>
+    aux1+=str(e1[i])+","
+NameError: name 'aux1' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-xf0crasb because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 102, in <module>
+    aux1+=str(e1[i])+","
+NameError: name 'aux1' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-2sissnky because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 102, in <module>
+    aux1+=str(e1[i])+","
+NameError: name 'aux1' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-9ggsfx6k because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-dwltv7i0 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-__7bm1wv because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-vg52tm25 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[Sat Jul 03 17:09:08.552509 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 04 13:47:58.101781 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 04 13:47:58.102276 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jul 04 13:49:22.376355 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 04 21:21:01.868239 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 04 21:21:01.868914 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jul 04 21:26:35.589277 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 05 11:39:25.919975 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 05 11:39:25.920189 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+  File "../librerias/correoCreadoProblema.py", line 7
+    return "Hola"
+    ^
+SyntaxError: 'return' outside function
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/probando.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/probando.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/probando.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/funOptimizacion.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/funOptimizacion.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 12, in <module>
+    problemaCreado(idProblema)
+NameError: name 'problemaCreado' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 12, in <module>
+    problemaCreado(idProblema)
+NameError: name 'problemaCreado' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 12, in <module>
+    problemaCreado(idProblema)
+NameError: name 'problemaCreado' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 12, in <module>
+    problemaCreado(idProblema)
+NameError: name 'problemaCreado' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 12, in <module>
+    problemaCreado(idProblema)
+NameError: name 'problemaCreado' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 12, in <module>
+    dataBaseClase.problemaCreado(idProblema)
+NameError: name 'dataBaseClase' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 12, in <module>
+    dataBase.problemaCreado(idProblema)
+AttributeError: module 'dataBaseClase' has no attribute 'problemaCreado'
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 14, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 14, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 14, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 14, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 14, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 14, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 9, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 9, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+python3: can't open file 'librerias/correoCreadoProblema.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "../librerias/correoCreadoProblema.py", line 9, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+[Mon Jul 05 16:32:49.247357 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 05 17:17:42.732200 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 05 17:17:42.732652 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 05 20:15:42.506456 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 05 20:15:42.506802 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 06 06:34:33.682775 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jul 06 06:34:33.683128 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 06 13:57:29.695860 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jul 06 13:57:29.696176 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 06 21:46:33.397702 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jul 06 21:46:33.398047 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 07 10:41:22.178360 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 07 10:41:22.178671 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+Traceback (most recent call last):
+  File "librerias/correoCreadoProblema.py", line 9, in <module>
+    desconectarBaseDeDatos()
+NameError: name 'desconectarBaseDeDatos' is not defined
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-6q26gkf7 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-mbdz7fs5 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-tzk71u3e because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-onuf8fn2 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-6yzl4bq3 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-04u7ix7a because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-yz727hli because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-07q6uuva because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-4dsjgz4g because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ok7u0xj8 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-y3ye0g4_ because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-gebl8by7 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-uh5pohwp because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-2vt_l6oq because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: list index out of range
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-6ir5bwys because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: list index out of range
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-qmyqcbld because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: list index out of range
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-yq85h1ik because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: list index out of range
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ry664thx because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: list index out of range
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-n8_y6fpd because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: list index out of range
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-9v_q3lnq because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 33, in <module>
+    aux.append(float(auxiliar[i]))
+ValueError: could not convert string to float: 'encarni'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-_avkw_6s because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 33, in <module>
+    aux.append(float(auxiliar[i]))
+ValueError: could not convert string to float: 'encarni'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-803bxb_7 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 33, in <module>
+    aux.append(float(auxiliar[i]))
+ValueError: could not convert string to float: 'encarni'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-sfyggrsj because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 33, in <module>
+    aux.append(float(auxiliar[i]))
+ValueError: could not convert string to float: 'encarni'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-jz92_s4n because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-5bere01p because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-aey63drt because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-pm_cdkw3 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 40, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-l5z_thnc because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 39, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-6z6_jwti because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 38, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-o75cc6g1 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 38, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-t6ts68ea because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 38, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-q9p50a3d because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 38, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-ieu8nepr because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Traceback (most recent call last):
+  File "librerias/funOptimizacion.py", line 38, in <module>
+    opiniones=obtenerOpinionesDesdeVectorPosicion(aux,numAlternativas,numExpertos,numCriterios)
+  File "/var/www/html/librerias/funciones.py", line 583, in obtenerOpinionesDesdeVectorPosicion
+    identidad[i][j] = arraicito[0]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-16oremh1 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-6ihdzejq because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-45fqpikp because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[Wed Jul 07 12:22:07.530413 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 07 12:22:34.002027 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 07 12:22:34.002285 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-goibu11q because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-qv57wghf because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-17rrstha because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[Wed Jul 07 12:38:29.223104 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 07 12:39:49.607621 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 07 12:39:49.607867 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+Matplotlib created a temporary config/cache directory at /tmp/matplotlib-lfgmnui1 because the default path (/var/www/.config/matplotlib) is not a writable directory; it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+[Wed Jul 07 13:29:07.459336 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 07 14:06:33.221817 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 07 14:06:33.223047 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jul 07 14:40:59.837537 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 07 18:19:47.345878 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 07 18:19:47.346377 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 07 21:05:49.363271 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 07 21:05:49.363752 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 11 09:57:01.098505 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 11 09:57:01.098833 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 11 11:21:29.415419 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 11 11:21:29.415882 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 11 13:21:23.410603 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 11 13:21:23.411041 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 11 14:47:54.499009 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 11 14:47:54.499302 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 12 09:39:15.419507 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 12 09:39:15.419957 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 12 16:56:44.507535 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 12 16:56:44.508071 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 12 20:38:10.751431 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 12 20:38:10.752018 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 12 22:02:26.304085 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 12 22:02:26.304309 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 13 13:02:31.037719 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jul 13 13:02:31.037949 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 13 13:48:40.650591 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jul 13 13:48:40.651012 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 14 05:52:32.006633 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 14 05:52:32.006892 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 14 13:42:33.420131 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 14 13:42:33.420464 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 14 16:34:45.353470 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 14 16:34:45.353901 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jul 15 14:15:49.127387 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Thu Jul 15 14:15:49.127717 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Jul 16 06:26:42.081565 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Fri Jul 16 06:26:42.081884 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Jul 16 07:38:19.711805 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Fri Jul 16 07:38:19.712185 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 17 08:20:42.905339 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat Jul 17 08:20:42.905958 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Jul 17 09:06:45.180904 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sat Jul 17 09:06:45.181155 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 18 09:19:43.816441 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 18 09:19:43.816832 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 18 14:07:34.258652 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 18 14:07:34.258996 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 18 20:19:03.875353 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 18 20:19:03.875678 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sun Jul 18 21:33:00.058054 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Sun Jul 18 21:33:00.058465 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 19 13:04:21.127876 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 19 13:04:21.128176 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jul 19 17:18:35.007680 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Mon Jul 19 17:18:35.008817 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 20 08:54:38.254406 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Tue Jul 20 08:54:38.254642 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jul 20 10:34:09.998799 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 21 10:55:59.170140 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.2 configured -- resuming normal operations
+[Wed Jul 21 10:55:59.170543 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jul 21 11:48:27.224332 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully

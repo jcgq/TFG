@@ -1,0 +1,73 @@
+
+body{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+    height: 100%;
+    background: #bbdefb;
+}
+
+h1{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+h2{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+
+.divElegirProblema{
+    width: 100%;
+    text-align: center;
+    padding-top: 6.25%;
+    float: left;
+    align-items: center;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+}
+table {
+     font-family: Verdana, Tahoma, Geneva, Roboto;
+     border-collapse: collapse;
+     width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr:nth-child(1) {
+    background-color: #def;
+}
+
+.divAbout{
+    padding-left: 12.5%;
+    padding-top: 2%;
+}
+
+.divEsperaUrge{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+    width: 100%;
+    height: 100%;
+    float: left;
+    padding-top: 4.5%;
+    padding-left: 5%;
+}
+
+.box-blue{
+    margin: 0 0 25px;
+    overflow: hidden;
+    padding: 20px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    width: 310px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    float: left;
+}
+
+.box-blue{
+    background: #d8ecf7;
+    border: 1px solid #afcde3;
+}

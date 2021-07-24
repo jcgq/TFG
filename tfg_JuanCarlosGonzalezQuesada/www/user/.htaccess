@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^rellenarOpinion/([0-9]+)$ rellenarOpinion.php

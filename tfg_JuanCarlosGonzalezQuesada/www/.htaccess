@@ -1,0 +1,16 @@
+# Turn on the rewrite engine
+RewriteEngine On
+
+## Only redirect if the request is not for index.php
+#RewriteCond %{REQUEST_URI} !^/index\.php
+
+# and the request is not for an actual file
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# or an actual folder
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php?$1 [L,QSA]
+
+## finally, rewrite (not redirect) to index.php
+#RewriteRule .* index.php [L]

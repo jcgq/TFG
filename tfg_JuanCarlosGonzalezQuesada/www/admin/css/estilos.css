@@ -1,0 +1,136 @@
+.divHija{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-width: 4px;
+    margin: 02px auto;
+    width: 35%;
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+
+.divPadre{
+    padding-top: 5%;
+    text-align: center;
+}
+
+.divPadreCrearProblema{
+    width: 100%;
+    padding-top: 1%;
+    text-align: center;
+}
+
+.divHijaCrearProblema{
+    text-align: justify;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-width: 4px;
+    margin: 0 auto;
+    width: 50%;
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+
+.divModificarProblema{
+    text-align: justify;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-top-style: dotted;
+    border-right-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-width: 4px;
+    margin: 0 auto;
+    width: 50%;
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+
+body{
+    background: #bbdefb;
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+
+h2{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+
+.tablaSolucion {
+     font-family: Verdana, Tahoma, Geneva, Roboto;
+     font-size: medium;
+     border-collapse: collapse;
+     width: 100%;
+     text-align: center;
+ }
+
+tr.trSolucion {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+}
+
+td.tdSolucion {
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 8px;
+}
+
+tr.trSolucion:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr.trSolucion:nth-child(1) {
+    background-color: lightgreen;
+}
+
+.picture {
+    background-color: #F9F9F9;
+    border: 1px solid #000000;
+    padding: 3px;
+}
+.picture img {
+    border: 1px solid #000000;
+    vertical-align:middle;
+    margin-bottom: 3px;
+}
+
+.div23{
+    padding-top: 5%;
+    padding-left: 12.5%;
+}
+
+.alfa{
+    width: 90%;
+}
+
+.trAlfa{
+
+}
+
+.tdAlfa{
+    text-align: center
+}
+
+.divCriterios{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.tablaCriterios{
+    margin: auto;
+    text-align: center;
+}
+
+.divCriterios.tablaCriterios tr{
+    text-align: center;
+}
+
+.divCriterios.tablaCriterios td{
+    text-align: center;
+}

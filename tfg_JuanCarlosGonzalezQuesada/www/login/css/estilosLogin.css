@@ -1,0 +1,43 @@
+
+body{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+    height: 100%;
+    background: #bbdefb;
+}
+
+h1{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+h2{
+    font-family: Verdana, Tahoma, Geneva, Roboto;
+}
+
+.divElegirProblema{
+    text-align: center;
+    padding-top: 6.25%;
+    align-items: center;
+}
+table {
+     font-family: Verdana, Tahoma, Geneva, Roboto;
+     border-collapse: collapse;
+     width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+tr:nth-child(1) {
+    background-color: #def;
+}
+
+.divAbout{
+    padding-left: 12.5%;
+    padding-top: 2%;
+}

@@ -1,0 +1,50 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+  <link rel="stylesheet" href="/admin/css/estilos.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+{% endblock %}
+
+{% block main %}
+<div class="divPadre">
+  <h1>Aquí puede seleccionar que problema quiere volver a recalcular:</h1>
+  <br>
+  <div class="divHija">
+    {% if seleccion is empty %}
+    <h5><b>Lo sentimos, no hay problemas que pueda modificar</b></h5>
+    {% else %}
+    <form action='/admin/procesarRehacer.php' method='post'>
+      <select name='seleccionId' id='seleccionId'>
+        {% for i in 0..seleccion|length-1 %}
+        <option value='{{seleccion[i][0]}}'>{{seleccion[i][1]}}</option>
+        {% endfor %}
+      </select>
+      <br><br><br><br>
+      <input type='submit' value='Recalcular problema'>
+    </form>
+    {% endif %}
+  </div>
+</div>
+
+
+<script>
+  function confirmar(){
+    Swal.fire({
+      title: '¿Está seguro de que quiere recalcularlo?',
+      showDenyButton: true,
+      showCancelButton: true,
+      confirmButtonText: 'Sí',
+      denyButtonText: 'No',
+    }).then((result) => {
+      if (result.isConfirmed) {
+        Swal.fire('Ya puede calcularlo de nuevo!', '', 'success')
+        document.getElementById('miform').submit();
+      } else if (result.isDenied) {
+        Swal.fire('Operación cancelada', '', 'info')
+      }
+    })
+  }
+
+
+</script>
+{% endblock %}

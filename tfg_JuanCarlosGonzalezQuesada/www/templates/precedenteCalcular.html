@@ -1,0 +1,23 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'/>
+    <link rel="stylesheet" href="/admin/css/estilos.css"/>
+
+    <script src="/admin/js/editconfig.js"></script>
+    <link rel="stylesheet" type="text/css" href="/admin/css/select2.css">
+{% endblock %}
+
+{% block main %}
+    <div class="divPadre">
+        <h2>Vamos a crear un nuevo problema</h2><br>
+        <div class="divHija" >
+            <form action="/crear-problema/1/" method="post">
+                <p>Numero de expertos: <input style="width: 90px" type="number" step="1" min="2" name="expertosP" required></p>
+                <p>Numero de criterios: <input style="width: 90px" type="number" step="1" min="2" name="criteriosP" required></p>
+                <p>Numero de alternativas: <input style="width: 90px" type="number" step="1" min="3" name="alternativasP" required></p>
+                <input type="submit" value="Enviar">
+            </form>
+        </div>
+    </div>
+{% endblock %}

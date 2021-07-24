@@ -1,0 +1,48 @@
+{% extends 'padre.html' %}
+
+{% block css %}
+<link rel="stylesheet" href="/admin/css/estilos.css">
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+{% endblock %}
+
+{% block main %}
+<div style="width: 100%; text-align: center; padding-top: 5%" >
+  <h2>Selecciona el problema que quieres eliminar</h2>
+  {% if filas is empty %}
+    <b>Lo sentimos, no hay problemas nuevos para opinar</b>
+  {% else %}
+    <p>¿Cuál de sus problemas asignados quieres resolver?</p>
+    <form name='miform' action='procesarEliminacion.php' id='miform' method='post'>
+      <select name='seleccionId' id='seleccionId'>";
+        {% for i in 0..filas|length-1 %}
+          <option value='{{filas[i][0]}}'>{{filas[i][1]}}</option>
+        {% endfor %}
+      </select>
+      <br><br>
+    <input type='button' id='boton' value='Eliminar Problema' onclick='confirmar()'>
+</form>
+  {% endif %}
+</div>
+
+
+
+<script>
+  function confirmar(){
+    Swal.fire({
+      title: '¿Está seguro de que quiere eliminarlo?',
+      showDenyButton: true,
+      showCancelButton: true,
+      confirmButtonText: 'Borrar',
+      denyButtonText: 'No Borrar',
+    }).then((result) => {
+      /* Read more about isConfirmed, isDenied below */
+      if (result.isConfirmed) {
+        Swal.fire('Eliminado!', '', 'success')
+        document.getElementById('miform').submit();
+      } else if (result.isDenied) {
+        Swal.fire('Changes are not saved', '', 'info')
+      }
+    })
+  }
+</script>
+{% endblock %}
